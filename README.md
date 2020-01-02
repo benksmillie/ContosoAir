@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/besmilli/contosair/_apis/build/status/benksmillie.ContosoAir?branchName=master)](https://dev.azure.com/besmilli/contosair/_build/latest?definitionId=6&branchName=master)
 
 
 # Microsoft.Github CI Demo
